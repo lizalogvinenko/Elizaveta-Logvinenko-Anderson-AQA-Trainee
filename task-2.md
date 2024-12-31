@@ -23,6 +23,10 @@ We can assume that the sequence is correct when:
 14. ]
 ```
 
+**Answer**
+
+This sequence is incorrect.
+
 I could assume that there is 3 way to solve this issue
 1. We could change 2nd bracket to `[`
 2. We could change 13th bracket to `)`
