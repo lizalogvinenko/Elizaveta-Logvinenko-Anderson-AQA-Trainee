@@ -1,0 +1,20 @@
+{
+  "name": "elizaveta-logvinenko-anderson-aqa-trainee",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "task-1-1": "node task-1-1.js",
+    "task-1-2": "node task-1-2.js",
+    "task-1-3": "node task-1-3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizalogvinenko/Elizaveta-Logvinenko-Anderson-AQA-Trainee.git"
+  },
+  "author": "Elizaveta Logvinenko",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lizalogvinenko/Elizaveta-Logvinenko-Anderson-AQA-Trainee/issues"
+  },
+  "homepage": "https://github.com/lizalogvinenko/Elizaveta-Logvinenko-Anderson-AQA-Trainee#readme"
+}
