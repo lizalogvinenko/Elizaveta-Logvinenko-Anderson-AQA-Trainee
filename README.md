@@ -1,4 +1,4 @@
-# Elizaveta-Logvinenko-Anderson-AQA-Trainee
+# Elizaveta-Logvinenko-JS-Anderson-AQA-Trainee
 
 - [Solution for Task 1-1](task-1-1.js)
 : Run program: `npm run task-1-1`
