@@ -1,7 +1,7 @@
 /*
 This task does not specify a separator between the input numbers.
 For our solution, we can use a space " " as a separator.
-It is unclear whether 0 is multiple of 3. Let's assume that is.
+It is unclear whether 0 is multiple of 3. Let's assume that it is.
 Additionally, we can include some clarifying messages in case of incorrect input.
 */
 
